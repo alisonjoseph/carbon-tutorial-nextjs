@@ -5,6 +5,9 @@
   "repository": "git@github.com:carbon-design-system/carbon-tutorial-nextjs.git",
   "bugs": "https://github.com/carbon-design-system/carbon-tutorial-nextjs/issues",
   "license": "Apache-2.0",
+  "engines": {
+    "node": ">=18.x"
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev",
